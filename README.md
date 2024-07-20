@@ -1,24 +1,24 @@
-# 📚 Education
+## 📚 Education
 
 - **SKT FLY AI 4th [2023.12 ~ 2024.03] [Link](https://github.com/SorrowAddict/SK-FLY-AI)**
 - **SSAFY 12th [2024.07 ~ ing]**
 <br>
 
-# 📌 Project
+## 📌 Project
 
 - **[Lawydot: 나만의 법률 개인 비서](https://github.com/SorrowAddict/SKT_Lawydot_project)**
   - B.E. : Chatbot API 개발 (Contribution: 100%) etc..
   - A.I. : Prompting with RAG (Contribution: 40%)
   - Data Acquisition & Data preprocessing (Contribution: 40%)
 
-# 📝 SorrowAddict's Stats
+## 📝 SorrowAddict's Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SorrowAddict)](https://github.com/anuraghazra/github-readme-stats)  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sorrowaddict)](https://solved.ac/sorrowaddict)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorrowAddict&theme=blue-green">
 <br>
 
-# 📚 STACKS
+## 📚 STACKS
 
 <div align=center>  
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -57,9 +57,9 @@
 </div>
 <br>
 
-# 💻 Workspace Specs
+## 💻 Workspace Specs
 
-<div align=center>
+<div>
   <img src="https://img.shields.io/badge/Intel-Core_i7_13700k-0071C5?style=for-the-badge&logo=intel&logoColor=white">  
   <img src="https://img.shields.io/badge/NVIDIA-RTX3070Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 </div>
