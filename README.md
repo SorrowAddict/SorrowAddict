@@ -1,4 +1,24 @@
-<div align=center><h1>📚 STACKS</h1></div>
+# 📚 Education
+
+- **SKT FLY AI 4th [2023.12 ~ 2024.03]**
+- **SSAFY 12th [2024.07 ~ ing]**
+<br>
+
+# 📌 Project
+
+- **[Lawydot: 나만의 법률 개인 비서](https://github.com/SorrowAddict/SKT_Lawydot_project)**
+  - B.E. : Chatbot API 개발 (Contribution: 100%) etc..
+  - A.I. : Prompting with RAG (Contribution: 40%)
+  - Data Acquisition & Data preprocessing (Contribution: 40%)
+
+# 📝 SorrowAddict's Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SorrowAddict)](https://github.com/anuraghazra/github-readme-stats)  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sorrowaddict)](https://solved.ac/sorrowaddict)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorrowAddict&theme=blue-green">
+<br>
+
+# 📚 STACKS
 
 <div align=center>  
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -22,6 +42,7 @@
   <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> 
   <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> 
   <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"> 
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <br>
 
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
@@ -33,6 +54,14 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
+</div>
+<br>
+
+# 💻 Workspace Specs
+
+<div align=center>
+  <img src="https://img.shields.io/badge/Intel-Core_i7_13700k-0071C5?style=for-the-badge&logo=intel&logoColor=white">  
+  <img src="https://img.shields.io/badge/NVIDIA-RTX3070Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 </div>
 <br>
 
