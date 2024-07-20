@@ -1,6 +1,6 @@
 # 📚 Education
 
-- **SKT FLY AI 4th [2023.12 ~ 2024.03]**
+- **SKT FLY AI 4th [2023.12 ~ 2024.03] [Link](https://github.com/SorrowAddict/SK-FLY-AI)**
 - **SSAFY 12th [2024.07 ~ ing]**
 <br>
 
