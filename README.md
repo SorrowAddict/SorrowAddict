@@ -65,6 +65,7 @@
 </div>
 <br>
 
+### 윗 페이지에 이력서 및 포트폴리오 연동 예정, 프로필 순서 변동 예정
 - 👋 Hi, I’m @SorrowAddict ! My name is Doyeong Jung !
 - 👀 I’m interested in F.E.(React, tailwindCSS) & B.E.(FastAPI, flask, node.js)...
 - 🌱 I’m currently learning Python, AI, ML, DL, Clone Coding, Coding Algorithm els...
