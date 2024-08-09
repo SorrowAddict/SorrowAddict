@@ -25,6 +25,7 @@
 ## 📚 STACKS
 ### 추후 수정해야 할 부분, 너무 난잡함
 
+<!--
 <div>  
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
@@ -60,6 +61,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
+-->
 <br>
 
 ## 💻 Workspace Specs
