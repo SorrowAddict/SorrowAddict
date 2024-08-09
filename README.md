@@ -12,7 +12,7 @@
 ## 📌 Project
 
 - **[Lawydot: 나만의 법률 개인 비서](https://github.com/SorrowAddict/SKT_Lawydot_project)**
-  - B.E. : Chatbot API 개발 (Contribution: 100%) etc..
+  - B.E. : Chatbot API 개발 (Contribution: 90%) etc..
   - A.I. : Prompting with RAG (Contribution: 40%)
   - Data Acquisition & Data preprocessing (Contribution: 40%)
 
