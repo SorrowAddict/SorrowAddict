@@ -5,7 +5,7 @@
 
 ## 📚 Education
 
-- **삼성 SW 아카데미 12기 [2024.07 ~ ing]**
+- **삼성 청년 SW 아카데미 (SSAFY) 12기 [2024.07 ~ ing]**
 - **SKT FLY AI 4기 [2023.12 ~ 2024.03] [Link](https://github.com/SorrowAddict/SK-FLY-AI)**
 <br>
 
