@@ -7,7 +7,6 @@
 
 - **삼성 청년 SW 아카데미 (SSAFY) 12기 [2024.07 ~ ing]**
 - **SKT FLY AI 4기 [2023.12 ~ 2024.03] [Link](https://github.com/SorrowAddict/SK-FLY-AI)**
-<br>
 
 ## 📌 Project
 
@@ -20,10 +19,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SorrowAddict)](https://github.com/anuraghazra/github-readme-stats)  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sorrowaddict)](https://solved.ac/sorrowaddict)
-<br>
 
 ## 📚 STACKS
-### 추후 수정
+#### 추후 수정
 
 <!--
 <div>  
@@ -62,7 +60,6 @@
   <br>
 </div>
 -->
-<br>
 
 ## 💻 Workspace Specs
 
@@ -70,9 +67,8 @@
   <img src="https://img.shields.io/badge/Intel-Core_i7_13700k-0071C5?style=for-the-badge&logo=intel&logoColor=white">  
   <img src="https://img.shields.io/badge/NVIDIA-RTX3070Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 </div>
-<br>
 
-### 윗 페이지에 이력서 및 포트폴리오 연동 예정, 프로필 순서 변동 예정
+##### 윗 페이지에 이력서 및 포트폴리오 연동 예정, 프로필 순서 변동 예정
 - 👋 Hi, I’m @SorrowAddict ! My name is Doyeong Jung !
 - 👀 I’m interested in F.E.(React, tailwindCSS) & B.E.(FastAPI, flask, node.js)...
 - 🌱 I’m currently learning Python, AI, ML, DL, Clone Coding, Coding Algorithm els...
