@@ -18,11 +18,6 @@
   - A.I. : Prompting with RAG (Contribution: 40%)
   - Data Acquisition & Data preprocessing (Contribution: 40%)
 
-## 📝 SorrowAddict's Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SorrowAddict)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sorrowaddict)](https://solved.ac/sorrowaddict)
-
 ## 📚 STACKS
 
 <div>  
@@ -66,6 +61,11 @@
   <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
   <br>
 </div>
+
+## 📝 SorrowAddict's Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SorrowAddict)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sorrowaddict)](https://solved.ac/sorrowaddict)
 
 ## 💻 Workspace Specs
 
