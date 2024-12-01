@@ -17,6 +17,9 @@
   - B.E. : Chatbot API 개발 (Contribution: 90%) etc..
   - A.I. : Prompting with RAG (Contribution: 40%)
   - Data Acquisition & Data preprocessing (Contribution: 40%)
+- **[Reelax: 영화 추천 서비스](https://github.com/SorrowAddict/Reelax)**
+  - 삼성 청년 SW 아카데미 12기 1학기 프로젝트 최우수상
+  - Django + Vue + EC2 + docker
 
 ## 📚 STACKS
 
