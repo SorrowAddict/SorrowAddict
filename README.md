@@ -1,4 +1,4 @@
-## About me 
+## About me
 - 안녕하세요. 정도영입니다.
 - 👋 Hi, I’m @SorrowAddict ! My name is Doyeong Jung !
 - 👀 I’m interested in F.E.(React, Vue.js, tailwindCSS) & B.E.(Django, Node.js, FastAPI, flask)...
