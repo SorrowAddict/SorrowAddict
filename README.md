@@ -1,25 +1,44 @@
 ## About me 
 - 안녕하세요. 정도영입니다.
 - 👋 Hi, I’m @SorrowAddict ! My name is Doyeong Jung !
-- 👀 I’m interested in F.E.(React, Vue.js, tailwindCSS) & B.E.(Django, Node.js, FastAPI, flask)...
+- 👀 I’m interested in F.E.(React, Vue.js, tailwindCSS) & B.E.(Spring boot, Django, Node.js, FastAPI, flask)...
 - 🌱 I’m currently learning Python, React, TS, NextJS, AI(ML, DL), Algorithm els...
 - 📫 How to reach me Tel.(+82)01045008727 & sonatine789@naver.com or sonatine444@gmail.com
 - [포트폴리오 링크](https://thin-dance-ef7.notion.site/0b310714bd6e48a5a68f636202c1b4dc?pvs=74) : 해당 노션 페이지에서 저에 대해 자세히 확인하실 수 있습니다.
 
-## 📚 Education
+## 🏆 Awards / Certificates
+
+- 2025.06     **삼성 청년 SW 아카데미 자율 프로젝트 우수상 (SSAFY 12th)** - 시시각각
+- 2025.06     **정보처리기사** (취득 중)
+- 2024.08     **삼성 청년 SW 아카데미 관통 프로젝트 최우수상 (SSAFY 12th)** - [Reelax: 영화 추천 서비스 웹 개발 PJT](https://github.com/SorrowAddict/Reelax)
+- 2024.09     **ADsP**
+- 2023.11     **Microsoft AI-900**
+
+## 📚 Education / Experience
 
 - **삼성 청년 SW 아카데미 (SSAFY) 12기 [2024.07 ~ ing]**
 - **SKT FLY AI 4기 [2023.12 ~ 2024.03] [Link](https://github.com/SorrowAddict/SK-FLY-AI)**
+- **주식회사 눈쟁이에스씨** [2022.11 ~ 2023.03] 방송세팅팀 방송세팅 업무 담당
 
 ## 📌 Project
 
+- **시시각각**
+  - **삼성 에스원 연계 프로젝트**
+  - CCTV 실시간 이상행동 감지 알림과 심층 분석 리포트를 제공하는 무인 매장 AI 보안 솔루션
+  - 백엔드 리드(Spring boot) 개발, RTSP Ip카메라 스트림 서버(Node.js) 개발, 인프라(AWS, docker, Jenkins)
+- **도로로(DOROLAW)**
+  - AI 기반 교통사고 과실비율 분석 및 법률 상담 매칭 플랫폼
+  - 블랙박스orCctv 영상 기반 과실 비율 예측 모델 개발(pyTorch, mmaction), 인프라 리드(AWS, docker, Jenkins), 프론트엔드(React, TypeScript) 개발
+- **M09(AIoT 작업현장 보조 서비스)**
+  - AIoT를 활용한 무인 주행 시스템 개발
+  - 인프라(AWS, Jenkins), 백엔드 리드(Spring boot) 및 프론트엔드(React) 개발
+- **[Reelax: 영화 추천 서비스](https://github.com/SorrowAddict/Reelax)**
+  - 삼성 청년 SW 아카데미 12기 1학기 프로젝트 최우수상
+  - Django + Vue + EC2 + docker
 - **[Lawydot: 나만의 법률 개인 비서](https://github.com/SorrowAddict/SKT_Lawydot_project)**
   - B.E. : Chatbot API 개발 (Contribution: 90%) etc..
   - A.I. : Prompting with RAG (Contribution: 40%)
   - Data Acquisition & Data preprocessing (Contribution: 40%)
-- **[Reelax: 영화 추천 서비스](https://github.com/SorrowAddict/Reelax)**
-  - 삼성 청년 SW 아카데미 12기 1학기 프로젝트 최우수상
-  - Django + Vue + EC2 + docker
 
 ## 📚 STACKS
 
