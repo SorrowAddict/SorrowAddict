@@ -8,10 +8,11 @@
 
 ## 🏆 Awards / Certificates
 
+- 2025.09 &nbsp;    **SQLD**
 - 2025.06 &nbsp;    **삼성 청년 SW 아카데미 자율 프로젝트 우수상 (SSAFY 12th)** - [시시각각](https://github.com/s1-guard/s1s1-guard)
 - 2025.06 &nbsp;    **정보처리기사** (실기 취득 중)
 - 2024.08 &nbsp;    **삼성 청년 SW 아카데미 관통 프로젝트 최우수상 (SSAFY 12th)** - [Reelax: 영화 추천 서비스 웹 개발 PJT](https://github.com/SorrowAddict/Reelax)
-- 2024.09 &nbsp;    **ADsP**
+- 2024.11 &nbsp;    **ADsP**
 - 2023.11 &nbsp;    **Microsoft AI-900**
 
 ## 📚 Education / Experience
